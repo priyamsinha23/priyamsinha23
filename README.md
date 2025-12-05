@@ -26,7 +26,7 @@
   - 🎯 Specializing in Full Stack Development & Data Analysis.
   - 🔭 Currently working on improving my coding skills.
   - 👯 Looking to collaborate on open-source projects.
-  - 📫 How to reach me: [Email](mailto:priyamsinha2677@example.com)
+  - 📫 How to reach me: [Email](mailto:priyamsinha2677@gmail.com)
   - ⚡ **Personal Website:** [Portfolio](https://pratik2505.vercel.app/)
  
 <!--Profile Count Badge-->
@@ -163,7 +163,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <!--Trophies Section-->   
  <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs📊</h2>
  <p align="center">
-  <a href="http://www.github.com/PratikKumarSingh2503">
+  <a href="http://www.github.com/priyamsinha23">
     <img src="https://github-profile-trophy.vercel.app/?username=PratikKumarSingh2503&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   </a> 
 
@@ -178,16 +178,16 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <h2 align="center">📊 GitHub Overview 📊</h2>
 
 <p align="center">
-  <a href="http://www.github.com/PratikKumarSingh2503">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikKumarSingh2503&theme=github_dark" alt="GitHub Summary Card"/>
+  <a href="http://www.github.com/priyamsinha23">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyamsinha23&theme=github_dark" alt="GitHub Summary Card"/>
   </a>
 </p>
 <p align="center">
-  <a href="http://www.github.com/PratikKumarSingh2503">
+  <a href="http://www.github.com/priyamsinha23
     <img src="https://github-readme-stats.vercel.app/api?username=PratikKumarSingh2503&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true" alt="GitHub Stats"/>
   </a>
-  <a href="http://www.github.com/PratikKumarSingh2503">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikKumarSingh2503&langs_count=8&layout=compact&title_color=3382ed&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top Languages"/>
+  <a href="http://www.github.com/priyamsinha23">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamsinha23&langs_count=8&layout=compact&title_color=3382ed&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top Languages"/>
   </a>
 </p>
 
@@ -208,19 +208,19 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/pratik-kumar-singh-aa6746221/" target="_blank">
+ <a href="https://www.linkedin.com/in/priyam-sinha-4abababs/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:pratikkumarsingh819@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="pratikkumarsingh819@gmail.com mail style="margin-bottom: 5px;" />
+<a href="mailto:priyamsinha2677@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="priyamsinha2677@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="#" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=pratik_k_s Instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=priyam_s Instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/PratikSingh819" target="_blank">
+<a href="https://www.threads.com/@priyam.sinha.92109" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="pratik_k_s Twitter" style="margin-bottom: 5px;" />
 </a>
 </div>
