@@ -164,7 +164,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs📊</h2>
  <p align="center">
   <a href="http://www.github.com/priyamsinha23">
-    <img src="https://github-profile-trophy.vercel.app/?username=PratikKumarSingh2503&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=priyamsinha23&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   </a> 
 
 <!--  <div style="text-align: center;">
