@@ -60,14 +60,19 @@ Schedule a 1:1 chat below — I’d love to connect and exchange insights! 👇
   </a>
 </p>--> 
 
----
 
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkashMandal1997/AkashMandal1997/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkashMandal1997/AkashMandal1997/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AkashMandal1997/AkashMandal1997/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
