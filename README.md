@@ -8,7 +8,7 @@
 </div>
 
 <h2><img src="#" width="30"/> नमस्ते (Namaste), I'm <span style="font-size:10px;">Priyam Sinha!</span> 👋 <img src="#" width="50"></h2>
-<p><em>  Software Developer Intern at <a href="https://prodigyinfotech.dev/">Orodigy Infotech</a>
+<p><em>  Software Developer Intern at <a href="https://prodigyinfotech.dev/">Prodigy Infotech</a>
 <span style="vertical-align:middle;"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>
 </em></p>
 
