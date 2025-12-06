@@ -2,48 +2,74 @@
 ![search](https://github.com/PratikKumarSingh2503/PratikKumarSingh2503/assets/132550388/b8bd15d9-7e27-49b7-95f7-68cc4f3b2330)
 <br /> -->
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<!-- Greeting Section -->
+<div align="center">
+  <img width="38%" src="https://camo.githubusercontent.com/4bc6edea4fda9ee880921cb4b7a60fa6bbd35d4d5ba9b54dcd96cea392531510/68747470733a2f2f696d672e6672656570696b2e636f6d2f7072656d69756d2d766563746f722f757463682d6d616e2d7669657765642d66726f6d2d736964652d626568696e642d6c6170746f702d30322d636f70792d352d30315f3936313330372d313138352e6a7067" alt="Developer illustration">
 </div>
 
-<h2><img src="#" width="30"/> नमस्ते (Namaste), I'm <span style="font-size:10px;">Priyam Sinha!</span> 👋 <img src="#" width="50"></h2>
-<p><em>  Software Developer Intern at <a href="https://prodigyinfotech.dev/">Prodigy Infotech</a>
-<span style="vertical-align:middle;"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>
-</em></p>
+<h2 align="left">
+  <b>Welcome</b> | こんにちは (<i>Konnichiwa</i>) | नमस्ते (Namaste) 👋<br/>
+  <span style="font-size: 22px;">I'm <b>Priyam Sinha</b></span>
+</h2>
 
-[![Thread Follow](https://img.shields.io/twitter/follow/priyam?label=Follow)](https://www.threads.com/@priyam.sinha.9210)
-[![Linkedin: priyam](https://img.shields.io/badge/-priyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](www.linkedin.com/in/priyam-sinha-4abababs)
-![GitHub followers](https://img.shields.io/github/followers/priyamsinha23?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://pratik-portfolio-woad.vercel.app/)](https://pratik2505.vercel.app/)
-![](https://visitor-badge.glitch.me/badge?page_id=priyamsinha23.priyamsinha23)
-<!--- ![Waka Readme](https://github.com/PratikKumarSingh2503/PratikKumarSingh2503/workflows/Waka%20Readme/badge.svg) --->
-
-
-
-- I'm a developer passionate about creating innovative solutions to real-world problems.
-
-  - 🎯 Specializing in Full Stack Development & Data Analysis.
-  - 🔭 Currently working on improving my coding skills.
-  - 👯 Looking to collaborate on open-source projects.
-  - 📫 How to reach me: [Email](mailto:priyamsinha2677@gmail.com)
-  - ⚡ **Personal Website:** [Portfolio](https://pratik2505.vercel.app/)
- 
-<!--Profile Count Badge-->
-<p align="left">
-<!--   <img src="https://komarev.com/ghpvc/?username=PratikKumarSingh2503&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="PratikKumarSingh2503" style="padding-right:20px;" /> -->
+<p><em>💻 Software Developer Intern at <a href="https://prodigyinfotech.dev/" target="_blank">Prodigy Infotech</a></em>
+<span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" alt="developer_gif"></span>
 </p>
 
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/pratikkumarsingh819/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-<!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! 😊</em> -->
+<!-- Badges -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/priyam-sinha-4abababs/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://pratik2505.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:priyamsinha2677@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.threads.com/@priyam.sinha.9210" target="_blank">
+    <img src="https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads"/>
+  </a>
+  <!-- <img src="https://img.shields.io/github/followers/priyamsinha23?label=Follow&style=social" alt="GitHub followers"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=priyamsinha23" alt="Visitor badge"/> --> 
+</p>
 
 ---
 
+### 👨‍💻 About Me
+
+I'm a developer passionate about building innovative, scalable, and impactful solutions to real-world problems.  
+With a keen interest in **Full Stack Development** and **Data Analytics**, I enjoy transforming ideas into interactive and data-driven applications.
+
+- 🎯 **Specialization:** Full Stack Development & Data Analysis  
+- 🔍 **Focus Areas:** React.js · Power BI · Python · Java  
+- 👯 **Collaboration:** Open to contributing to open-source & analytics projects  
+- 📫 **Reach me at:** [priyamsinha2677@gmail.com](mailto:priyamsinha2677@gmail.com)  
+- ⚡ **Personal Website:** [Portfolio](https://pratik2505.vercel.app/)
+
+---
+
+<!--### 🤝 Let’s Connect!-->
+
+<!--Want to discuss projects, ideas, or just tech in general?  
+Schedule a 1:1 chat below — I’d love to connect and exchange insights! 👇  
+
+<p align="center">
+  <a href="https://calendly.com/pratikkumarsingh819/30min" target="_blank">
+    <img width="480" alt="Meet Me on Calendly" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
+  </a>
+</p>--> 
+
+---
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
