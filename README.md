@@ -12,7 +12,7 @@
 <span style="vertical-align:middle;"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/priyam?label=Follow)](https://www.threads.com/@priyam.sinha.9210)
+[![Thread Follow](https://img.shields.io/twitter/follow/priyam?label=Follow)](https://www.threads.com/@priyam.sinha.9210)
 [![Linkedin: priyam](https://img.shields.io/badge/-priyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](www.linkedin.com/in/priyam-sinha-4abababs)
 ![GitHub followers](https://img.shields.io/github/followers/priyamsinha23?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://pratik-portfolio-woad.vercel.app/)](https://pratik2505.vercel.app/)
@@ -122,42 +122,37 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
       <td><b>🔗 Demo</b></td>
     </tr>
   </thead>
-  <tbody> 
+  <tbody>
+	  <!-- Flipkart Laptop Sales Analysis -->
+	  <tr>
+      <td><a href="https://github.com/priyamsinha23/Flipkart-Laptop-Sales-Data-Analysis-"><b>Flipkart Laptop Sales Analysis</b></td>
+      <td>The repository “Flipkart-Laptop-Sales-Data-Analysis” aims to perform exploratory data analysis (EDA) on laptop sales data from Flipkart — examining attributes like brand, price, discounts, ratings, etc. It provides scripts/notebooks to analyze patterns (e.g. cheapest vs most expensive, brand-wise distribution) among laptops listed on the site.</td>
+      <td><a href="https://colab.research.google.com/github/priyamsinha23/Flipkart-Laptop-Sales-Data-Analysis-/blob/main/Untitled5.ipynb">🎨</a></td>
+    </tr>
+	  <!-- Sales Analytics Dashboard -->
+    <tr>
+      <td><a href="https://github.com/priyamsinha23/Sales-Analytics-Dashboard"><b>Sales Analytics Dashboard</b></a></td>
+      <td>A comprehensive Power BI dashboard analyzing sales performance from Feb 2023 to Feb 2024.
+Visualizes KPIs such as total sales ($34M), profit ($21M), and 60% profit margin across regions and categories.
+Helps identify top salespersons, best months, and cost-profit trends for data-driven decisions.</td>
+       <td><!--<a href="https://fanverse-ecommerce-mern-website.vercel.app/" target="_blank">-->🌐</a></td>
+    </tr>
 	  <!-- CampusClock -->
 	  <tr>
       <td><b><a href="https://github.com/PratikKumarSingh2503/CampusClock-frontend"><b>CampusClock (Attendance Tracker)</b></a></td>
       <td>CampusClock is a smart attendance tracker designed to streamline student attendance management with accuracy and ease. It helps institutions save time, reduce manual errors, and maintain organized records efficiently.</td>
       <td><a href="https://campusclock-ams.vercel.app/" target="_blank">🌐</a></td>
     </tr>
-
-	  <!-- Flipkart Laptop Sales Analysis -->
-	  <tr>
-      <td><b><a href="https://github.com/priyamsinha23/Flipkart-Laptop-Sales-Data-Analysis-">Flipkart Laptop Sales Analysis</b></a></td>
-      <td>The repository “Flipkart-Laptop-Sales-Data-Analysis” aims to perform exploratory data analysis (EDA) on laptop sales data from Flipkart — examining attributes like brand, price, discounts, ratings, etc. It provides scripts/notebooks to analyze patterns (e.g. cheapest vs most expensive, brand-wise distribution) among laptops listed on the site.</td>
-      <td><a href="https://colab.research.google.com/github/priyamsinha23/Flipkart-Laptop-Sales-Data-Analysis-/blob/main/Untitled5.ipynb">🌐</a></td>
-    </tr>
-
-	
-	  <!--Sales Analytics Dashboard -->
-	  <tr>
-      <td><a href="https://github.com/priyamsinha23/Sales-Analytics-Dashboard"><b>Sales Analytics Dashboard</b></td>
-      <td>A comprehensive Power BI dashboard analyzing sales performance from Feb 2023 to Feb 2024.
-Visualizes KPIs such as total sales ($34M), profit ($21M), and 60% profit margin across regions and categories.
-Helps identify top salespersons, best months, and cost-profit trends for data-driven decisions.</td>
-      <!--<td><a href="https://www.figma.com/design/P4TEzJzdLGqjuXAUUvYJQK/Inventory-management?node-id=0-1&t=fDReEI7a2ScNm1Wx-1" target="_blank">🎨</a></td> -->
-    </tr>
-	  <!-- Student Management System -->
     <tr>
-      <td><a href="https://github.com/priyamsinha23/student_management_system"><b>Student Management System</b></a></td>
+		<!-- Student Management System -->
+	  <tr>
+      <td><b><a href="https://github.com/priyamsinha23/student_management_system">Student Management System</b></a></td>
       <td>The “student_management_system” repo implements a basic Student Management System that lets you store, manage, and view student data. It’s a simple project useful for learning CRUD operations and basic data handling.</td>
-      #<td><a href="https://fanverse-ecommerce-mern-website.vercel.app/" target="_blank">🌐</a></td>
+      <td><!--<a href="https://tasknexus-three.vercel.app/" target="_blank">-->🌐</a></td>
     </tr>
-	  
-    <tr>
-		
     <tr>
 	  <!-- News Api -->
-      <td><b><a href="https://github.com/priyamsinha23/NEWS-WEB">PulseNews (News Api)</b></a></td>
+      <td><b><a href="https://github.com/priyamsinha23/NEWS-WEB">News Website (News Api)</b></a></td>
       <td>A dynamic news website that leverages APIs to provide real-time updates and comprehensive coverage of current events, keeping users informed with the latest news.</td>
       <td><a href="https://news-api-website-rose.vercel.app/" target="_blank">🌐</a></td>
     </tr>
@@ -191,7 +186,7 @@ Helps identify top salespersons, best months, and cost-profit trends for data-dr
 </p>
 <p align="center">
   <a href="http://www.github.com/priyamsinha23
-    <img src="https://github-readme-stats.vercel.app/api?username=priyamsinha23&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=PratikKumarSingh2503&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true" alt="GitHub Stats"/>
   </a>
   <a href="http://www.github.com/priyamsinha23">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamsinha23&langs_count=8&layout=compact&title_color=3382ed&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top Languages"/>
