@@ -21,9 +21,9 @@
   <a href="https://www.linkedin.com/in/priyam-sinha-4abababs/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://pratik2505.vercel.app/" target="_blank">
+  <!-- <a href="https://pratik2505.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> -->
   <a href="mailto:priyamsinha2677@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
