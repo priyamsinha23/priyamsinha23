@@ -45,7 +45,7 @@ With a keen interest in **Full Stack Development** and **Data Analytics**, I enj
 - 🔍 **Focus Areas:** React.js · Power BI · Python · Java  
 - 👯 **Collaboration:** Open to contributing to open-source & analytics projects  
 - 📫 **Reach me at:** [priyamsinha2677@gmail.com](mailto:priyamsinha2677@gmail.com)  
-- ⚡ **Personal Website:** [Portfolio](https://pratik2505.vercel.app/)
+- ⚡ <!--**Personal Website:** [Portfolio](https://pratik2505.vercel.app/)-->
 
 ---
 <div align="center">
